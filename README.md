@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @indigoMac
-- 🎩 MEng (hons) electronic and electrical engineer 
+- 🎩 MEng (hons) electronic and electrical engineer
+- 🌟 Main Languages and Tools:
+  * Programming Languages: Python, C++, Ruby, JavaScript
+  * Technologies and Tools: ESP32, Raspberry Pi, Arduino, STM32x, ESP8266, FreeRTOS
+  * Frameworks: Node.js, React, Ruby on Rails
+  * Design Tools: Fusion 360, KiCAD, Altium, Matlab
 - 👀 I’m interested in all kinds of inovation. I am pationate about working on projects and conducting research in sensor design and development, engineering for sustainability, automation and control systems, computer vision, and the ethical use, design and applications of artificial intelgence.
 - 🌱 I’m currently furthering my learning expereince in embedded software, artifical intelgence / machine learning, and computer vision.
 - 💞️ I’m looking to collaborate on all kinds of projects weather it is hardware or software, I love to contribute and learn in whatever I can get involved in. 
