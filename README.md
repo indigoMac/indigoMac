@@ -2,11 +2,11 @@
 - 🎩 MEng (hons) electronic and electrical engineer
 - 🌟 Main Languages and Tools:
   * Programming Languages: Python, C++, Ruby, JavaScript
-  * Technologies and Tools: ESP32, Raspberry Pi, Arduino, STM32x, ESP8266, FreeRTOS
+  * Technologies and Tools: ESP32, Raspberry Pi, Arduino, STM32x, ESP8266, FreeRTOS, ROS2, Visual SLAM
   * Frameworks: Node.js, React, Ruby on Rails
   * Design Tools: Fusion 360, KiCAD, Altium, Matlab, Quartus
-- 👀 I’m interested in all kinds of inovation. I am pationate about working on projects and conducting research in sensor design and development, robotics, engineering for sustainability, medtech, automation and control systems, computer vision, text-to-speech and speech-to-text, and the ethical use, design and applications of artificial intelgence.
-- 🌱 I’m currently furthering my learning expereince in embedded software, robotics and SLAM, artifical intelgence / machine learning, and computer vision.
+- 👀 I’m interested in all kinds of inovation. I am pationate about working on projects and conducting research in audio equipment, sensor design and development, robotics, engineering for sustainability, medtech, automation and control systems, computer vision, text-to-speech and speech-to-text, and the ethical use, design and applications of artificial intelgence.
+- 🌱 I’m currently furthering my learning expereince in audio electronics design, embedded software, robotics and SLAM, artifical intelgence / machine learning, and computer vision.
 - 💞️ I’m looking to collaborate on all kinds of projects weather it is hardware or software, I love to contribute and learn in whatever I can get involved in. 
 - 📫 How to reach me:
   * email: coxm45352@gmail.com
