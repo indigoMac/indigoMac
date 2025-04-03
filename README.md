@@ -3,9 +3,9 @@
 - 🌟 Main Languages and Tools:
   * Favourite Language: Python
   * Programming Languages: Java, C++, Ruby, JavaScript, (bit of go)
-  * Technologies and Tools: ESP32, Raspberry Pi, Arduino, STM32x, ESP8266, ROS2, Visual SLAM
-  * Frontend: React
-  * Backend: Node.js, Express.js, Flask, Ruby on Rails
+  * Technologies and Tools: ESP32, ESP8266, Raspberry Pi, Arduino, STM32x, ROS2, Visual SLAM
+  * Frontend: React, React - Native
+  * Backend: Django, Ruby on Rails
   * Database: Postgresql, MongoDB
   * Design Tools: Fusion 360, KiCAD, Altium, Matlab
 - 👀 I’m interested in software development primerily with a focus on low-latency fintech solutions. But in a larger picture I am pationate about working on projects in audio equipment, sensor design and development, robotics, engineering for sustainability, medtech, automation and control systems, computer vision, text-to-speech and speech-to-text, and the ethical use, design and applications of artificial intelgence.
