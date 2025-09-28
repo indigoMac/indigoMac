@@ -10,10 +10,6 @@
   * Design Tools: Fusion 360, KiCAD, Altium, Matlab
 - 🌱 I’m currently furthering my learning expereince in varying languages of low-latency systems, embedded systems, web development in general as well as application development for simple tools and larger projects in artifical intelgence / machine learning, and computer vision. 
 - 💞️ I’m looking to collaborate on all kinds of projects weather it is hardware or software, I love to contribute and learn in whatever I have the time to get involved in. 
-- 📫 How to reach me:
-  * email: coxm45352@gmail.com
-  * linkedIn: https://www.linkedin.com/in/mackenzie-cox-928258268/
-
 
 <!---
 indigoMac/indigoMac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
